@@ -5,7 +5,7 @@ A Web developer🎯 from India.
 - 📚 What do I believe? Life is too short to have regrets.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/anand.adhikari.007/) or [Twitter](https://twitter.com/anandadhikari02)
 - 🎙 Portfolio (https://portfolio-reactjs-tau.vercel.app/).
-- 🎮 Youtube (https://www.youtube.com/channel/UClMbjCUOJ_y6c1jytAlzfFA) || Loco (https://loco.gg/streamers/2EFZDGQP1Q)
+- 🎮 [Youtube](https://www.youtube.com/channel/UClMbjCUOJ_y6c1jytAlzfFA) || [Loco](https://loco.gg/streamers/2EFZDGQP1Q)
 
 **Languages:**  
 
