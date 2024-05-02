@@ -5,6 +5,7 @@ A Web developer🎯 from India.
 - 📚 What do I believe? Equality is just a fantasy and most of us go through life denying the fact that we live in a meritocracy
 - 📫 How to reach me: [Instagram](https://www.instagram.com/anand.adhikari.007/) or [Twitter](https://twitter.com/anandadhikari02)
 - 🎮 [Youtube](https://www.youtube.com/channel/UClMbjCUOJ_y6c1jytAlzfFA) || [Loco](https://loco.gg/streamers/2EFZDGQP1Q)
+- 🎙 [Portfolio](https://goatfolio.netlify.app/)
 
 **Languages:**  
 
