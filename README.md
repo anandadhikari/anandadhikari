@@ -27,7 +27,6 @@ Tools: Docker, Kafka, Git, Postman, JUnit, Swagger, Grafana
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Adhikari-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/anandadhikari007)
 [![Email](https://img.shields.io/badge/Email-anandadhikari02@gmail.com-blue?style=flat-square&logo=gmail)](mailto:anandadhikari02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anandadhikari-blue?style=flat-square&logo=github)](https://github.com/anandadhikari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=netlify)](https://goatfolio.netlify.app/)
 
 ---
 
