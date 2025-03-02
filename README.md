@@ -1,6 +1,6 @@
 # Anand Adhikari
 
-## Full-Stack Developer | AWS Certified Cloud Practitioner
+## Full-Stack Developer
 
 Passionate Full-Stack Developer with expertise in JavaScript, Java, SpringBoot, and React.js. Building scalable, efficient, and user-friendly web solutions with a focus on code quality and best practices.
 
