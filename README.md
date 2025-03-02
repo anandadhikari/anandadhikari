@@ -4,11 +4,6 @@
 
 Passionate Full-Stack Developer with expertise in JavaScript, Java, SpringBoot, and React.js. Building scalable, efficient, and user-friendly web solutions with a focus on code quality and best practices.
 
-## 💼 Professional Experience
-
-- **Full-Stack Developer** at Tata Consultancy Services
-- Previously **Backend Developer (Intern)** at Jupiter Money
-
 ## 🛠️ Tech Stack
 
 ```
