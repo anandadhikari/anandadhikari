@@ -15,7 +15,7 @@ Tools: Docker, Kafka, Git, Postman, JUnit, Swagger, Grafana
 
 ## 🔍 Featured Projects
 
-- [ChatRoom](https://github.com/anandadhikari/chatroom) - Real-time chat application built with MERN stack and Socket.io
+- [TextToSQL](https://github.com/anandadhikari/TextToSQL) - Java backend application that converts natural language queries into executable SQL queries
 - [MicroShop](https://github.com/anandadhikari/microshop) - Microservices-based e-commerce platform using Spring Boot and Docker
 
 ## 🎓 Education
@@ -32,4 +32,4 @@ Tools: Docker, Kafka, Git, Postman, JUnit, Swagger, Grafana
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anandadhikari)
 
-<!-- Last updated: March 2025 -->
+<!-- Last updated: June 2025 -->
